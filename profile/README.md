@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="Nimstead. Find what’s vulnerable. Fix it safely. Prove it." src="banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nimstead/.github/raw/main/profile/banner-dark.svg">
+  <img alt="Nimstead. Find what’s vulnerable. Fix it safely. Prove it." src="https://github.com/Nimstead/.github/raw/main/profile/banner-light.svg" width="100%">
 </picture>
 
 We build **Nimstead Assure**: vulnerability scanning, patch assurance and audit evidence for IT and security teams who have been oversold before.
